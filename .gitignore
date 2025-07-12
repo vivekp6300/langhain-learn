@@ -1,5 +1,6 @@
 .venv/
-.env
-tests/
+.env/
+.vscode/
+tests/logs
 logs/
 __pycache__/

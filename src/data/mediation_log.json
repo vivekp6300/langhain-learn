@@ -1,0 +1,336 @@
+{
+    "$schema": "./mediation_log.schema.json",
+    "title": "Chronological Mediation Log",
+    "subtitle": "Lok Vihar Residential Repair and Renovation",
+    "overview": "This document maintains a dated, factual log of all physical renovation, repair, and maintenance activities executed at residential premises B-169, Lok Vihar, Pitampura, Delhi, in accordance with the Settlement Agreement dated February 2025 signed between Mrs. Sadhna Sharma and Mrs. Ruchi Sharma Pandey.\nThe agreement was the outcome of mediation proceedings under the case Cont. Cas (C) 1009/2024 - Sadhna Sharma @ Sudha vs Madhu Sharma & Ors, pending before the Hon'ble Delhi High Court. The mediation was conducted at Samadhan - Delhi High Court Mediation and Conciliation Centre pursuant to order dated 03.07.2024 by Hon'ble Justice Dharmesh Sharma. The matter is connected to CS DJ/994/2022, pending before the Learned District Judge-02, Rohini Court, North West Delhi.",
+    "entries": [
+        {
+            "period": "20 March 2025",
+            "details": "Work on the terrace officially commenced. Ruchi Sharma Pandey initiated structural renovation by starting with the removal of the improperly constructed gola on the Barsati room and adjoining bathroom terrace walls. This marked the beginning of the physical execution of the mediation settlement."
+        },
+        {
+            "period": "21 March 2025",
+            "details": "A temporary 1000-litre plastic water tank was installed by Sadhna Sharma on the terrace, adjacent to Ruchi Sharma Pandey's existing tanks. This was necessary to enable the dismantling of Sadhna's old RCC underground tank. Labourers hired by Ruchi continued breaking the old gola and began dismantling damaged portions of the parapet walls. These portions had been previously identified as unstable and allowing seepage."
+        },
+        {
+            "period": "22 March 2025",
+            "details": "Ruchi's contractor arranged for a sweeper to clean the terrace bathroom, making it usable for the workers during the renovation. This was a preparatory step to allow uninterrupted labour presence."
+        },
+        {
+            "period": "24 March 2025",
+            "details": "Dismantling work on Sadhna Sharma's RCC underground water tank was initiated. This work had been agreed upon in the mediation to allow replacement with overhead PVC tanks. Work was slow due to the tank's structural density."
+        },
+        {
+            "period": "25 March 2025",
+            "details": "Work on dismantling the RCC tank continued. The slab was nearly 1 foot thick, and manual tools proved inadequate. A jackhammer machine was brought in and deployed."
+        },
+        {
+            "period": "26 March 2025",
+            "details": "During tank dismantling, a massive peepal tree root system was discovered growing into and around the tank and surrounding terrace walls. This explained the major cracks and was not visible earlier. The root system had entered structural members of the building."
+        },
+        {
+            "period": "27 March 2025",
+            "details": "Tank dismantling continued. The presence of peepal roots made it hazardous and complex. Care was taken to prevent further damage to load-bearing walls. Contractors traced the root system into other portions of the terrace."
+        },
+        {
+            "period": "28 March 2025",
+            "details": "The RCC tank dismantling was completed. Removal of debris started. The peepal roots had been successfully extracted from the main tank zone."
+        },
+        {
+            "period": "29 March 2025",
+            "details": "The remaining peepal roots embedded in terrace walls were chiseled and removed. Cracks were reinforced with mesh and cement mortar. Full tank area was now clear for further civil work."
+        },
+        {
+            "period": "30 March to 2 April 2025",
+            "details": "Focused on brickwork and new RCC slab laying for the rear Barsati room roof, replacing damaged portions. Coordination occurred between masons and steelworkers. Proper curing and surface levelling were ensured."
+        },
+        {
+            "period": "3 April 2025",
+            "details": "Reinforcement rods and centering work began for laying a new slab on the Barsati room. The contractor also ordered new bricks and cement for upcoming work on the adjoining bathroom roof."
+        },
+        {
+            "period": "4 April 2025",
+            "details": "The new slab for the Barsati room was successfully laid. The work was completed with proper curing and surface finishing."
+        },
+        {
+            "period": "5 April 2025",
+            "details": "Work commenced on the adjoining bathroom roof. Old tiles were removed, and the roof was prepared for a new waterproofing layer."
+        },
+        {
+            "period": "6 April 2025",
+            "details": "Waterproofing work on the bathroom roof began. A new layer of waterproof membrane was applied to prevent future leaks."
+        },
+        {
+            "period": "7 April 2025",
+            "details": "The waterproofing layer was allowed to cure. The contractor ensured all materials were properly set before proceeding with further work."
+        },
+        {
+            "period": "8 April 2025",
+            "details": "Final touches were applied to the Barsati room and bathroom roofs. All work was inspected for quality and compliance with the settlement agreement."
+        },
+        {
+            "period": "4 April 2025",
+            "details": "Barsati slab laying was completed. Plaster curing initiated. Contractor started lining up work for parapet wall repairs next."
+        },
+        {
+            "period": "5 April to 8 April 2025",
+            "details": "Work shifted to parapet wall rebuilding and patch plastering along the terrace edge. This included areas near the drainage mouth. Cement curing continued simultaneously."
+        },
+        {
+            "period": "9 April 2025",
+            "details": "Ruchi's contractor supervised ground floor cleaning of the debris generated so far. Sadhna Sharma's maid objected to the temporary stacking of materials near her side, but issue was resolved verbally."
+        },
+        {
+            "period": "10 April 2025",
+            "details": "Repair work on damaged walls of the Barsati bathroom began. Plaster inside the bathroom was hacked off and redone. Waterproofing additives were used."
+        },
+        {
+            "period": "11 April 2025",
+            "details": "Focus on drainage pipe layout planning. Existing pipes discharging onto the rear terrace were observed to be causing seepage. Plans made to redirect them more efficiently."
+        },
+        {
+            "period": "12 April 2025",
+            "details": "Conduits laid for rerouting the drainage from the Barsati roof and Mamtee roof. These pipes were now aligned to discharge into a vertical pipe system away from critical wall junctions."
+        },
+        {
+            "period": "13 April 2025",
+            "details": "Internal wall plastering of the Barsati room commenced. The work was slow but done in layers to ensure bonding and long-term durability."
+        },
+        {
+            "period": "14 April 2025",
+            "details": "Barsati room plastering continued. Door and window gaps were being prepped for aluminium frame fitting."
+        },
+        {
+            "period": "15 April 2025",
+            "details": "Surface finishing began for external Barsati rear wall, which faces the Angan. Concurrently, internal plaster of the adjoining bathroom was being completed."
+        },
+        {
+            "period": "16 April 2025",
+            "details": "Work began on preparing the surface of the first floor ceiling/terrace floor, including cleaning, crack-filling, and bonding preparation before application of terrace waterproof plaster."
+        },
+        {
+            "period": "17 April 2025",
+            "details": "Waterproof plaster application commenced on the terrace floor. This included plaster with bonding additives and angle gola plastering along the base of parapet walls. The mixture used was a combination of cement, sand, waterproofing compound, and bonding agent."
+        },
+        {
+            "period": "18 April 2025",
+            "details": "Waterproof plastering work continued. Labour also began clearing debris from the Barsati roof and placing conduit pipes for any remaining plumbing adjustments."
+        },
+        {
+            "period": "19 April 2025",
+            "details": "Parapet wall plastering resumed. Coordination between plumber and mason was ensured so that no embedded pipework was blocked. Outlet slopes were verified and adjusted."
+        },
+        {
+            "period": "20 April 2025",
+            "details": "The terrace floor gola work was completed. The gola was plastered carefully along the corners and base of parapets to ensure proper runoff of rainwater."
+        },
+        {
+            "period": "21 April 2025",
+            "details": "Light cleaning and cement curing activity carried out. No major structural work was executed due to shortage of labourers on Sunday."
+        },
+        {
+            "period": "22 April 2025",
+            "details": "Final touches to Barsati bathroom internal plastering completed. Floor levelling done. Space now prepared for aluminium door/window fabrication."
+        },
+        {
+            "period": "23 April 2025",
+            "details": "Ruchi's contractor began clearing the area on the rear-side parapet wall and mumtee walls for new plaster work. Scaffold planning discussed."
+        },
+        {
+            "period": "24 April 2025",
+            "details": "Sadhna Sharma took Ruchi's contractor into her first floor rooms to show water seepage issues. She claimed the seepage originated from poor gola construction from earlier works. The contractor attributed it to older construction defects confirmed in prior civil reports."
+        },
+        {
+            "period": "25 April 2025",
+            "details": "Dismantling of Sadhna Sharma's balcony floor on the first floor (front side) was completed. Contractor prepared surface for fresh concrete layering and waterproofing."
+        },
+        {
+            "period": "26 April 2025",
+            "details": "Rear Barsati room wall (bathroom side) plastering continued. Simultaneously, the contractor began cutting a new doorway between the Barsati room and rear-side bathroom. POP (Plaster of Paris) work initiated for rear Barsati overhang. Sadhna Sharma made an urgent call to Ruchi's contractor complaining about water seepage in her central bathrooms. The contractor attributed it to curing water being used for terrace plaster and gola. He assured it would be resolved next morning."
+        },
+        {
+            "period": "27 April 2025",
+            "details": "Contractor addressed Sadhna Sharma's seepage concerns. Waterproofing slurry was applied to cured terrace floor and gola. Gola edges were rechecked. New parapet wall on Barsati roof was constructed to reduced height. POP plaster was applied to the overhang of Barsati roof. Contractor simultaneously worked on repairing cracks in adjoining terrace sections."
+        },
+        {
+            "period": "28 April 2025",
+            "details": "Concrete layering and waterproofing completed for Sadhna's front balcony floor. Water stagnation test began by flooding the floor to check for slope effectiveness."
+        },
+        {
+            "period": "29 April 2025",
+            "details": "Fresh plastering of Barsati room interior walls continued—especially the walls shared with neighbouring building. Contractor completed touch-up plaster on mumtee outer wall as well."
+        },
+        {
+            "period": "30 April 2025",
+            "details": "Drain blockage issue arose from Sadhna's first-floor bathroom. The backflow was traced to a pipe running through Ruchi's wall. Ruchi's contractor called Delhi Jal Board and cleared the blockage with a pump. Despite being caused by debris from Sadhna's repairs, Ruchi's team resolved it without escalation."
+        },
+        {
+            "period": "1 May 2025",
+            "details": "Final plastering of the outer walls of the Barsati bathroom and room continued. Minor crack lines were also patched and leveled. Rainwater outlet from the new gola was tested with buckets to simulate flow."
+        },
+        {
+            "period": "2 May 2025",
+            "details": "The final gola plaster work was completed. Slopes were double-checked by pouring water to ensure no stagnation. Drain outlets were confirmed functional."
+        },
+        {
+            "period": "3 May 2025",
+            "details": "The outer terrace was cleaned thoroughly. Workers began scraping older wall surfaces near the mumtee for upcoming repair work."
+        },
+        {
+            "period": "4 May 2025",
+            "details": "No major civil activity took place. Minor internal touch-ups and material inventory management were done."
+        },
+        {
+            "period": "5 May 2025",
+            "details": "Work resumed with fresh plastering of the mumtee walls (structure above the staircase). Water-seepage patches were scraped out, base re-plastered with chemical additives."
+        },
+        {
+            "period": "6-9 May 2025",
+            "details": "Mumtee and parapet wall plastering continued. Rear-side parapet walls were reshaped slightly for better slope. Brick capping applied to exposed parapet top."
+        },
+        {
+            "period": "10 May 2025",
+            "details": "Ruchi's contractor conducted cleanup in Angan area. Broken tiles, buckets, old hoses were cleared and temporary waterline rechecked. Chimney pipe routing plan was finalized."
+        },
+        {
+            "period": "11 May 2025",
+            "details": "A sample FRP sheet was measured and discussed for future fabrication of Angan shed. Discussion initiated for handrail design and tank access ladder platform."
+        },
+        {
+            "period": "12 May 2025",
+            "details": "Ruchi's contractor rerouted rainwater pipes coming from Barsati roof and Mamtee roof. These pipes, which earlier flowed directly onto the terrace, were now connected into a proper vertical drainage pipe."
+        },
+        {
+            "period": "13 May 2025",
+            "details": "Internal Barsati bathroom wall plastering completed. Surface left to cure. Scaffold repositioned near mumtee wall for further external wall finishing."
+        },
+        {
+            "period": "14 May 2025",
+            "details": "The space for new motor installation for Sadhna Sharma was made accessible. Her plumber visited the site but demanded more space than agreed. Despite repeated urging, motor was not installed. However, the plumber completed rest of the piping layout."
+        },
+        {
+            "period": "15 May 2025",
+            "details": "Work completed on plastering and finishing of the Angan walls. Simultaneously, structure for holding Sadhna Sharma's new water tanks was finalized and deemed complete."
+        },
+        {
+            "period": "16 May 2025",
+            "details": "The tank platform was fully stabilized and tank area cleaned. Debris from all recent activities cleared. Railing layout for the FRP tank access area was being re-discussed."
+        },
+        {
+            "period": "17 May 2025",
+            "details": "Material brought for chimney pipe extension from ground floor to terrace. This was a major demand by Sadhna Sharma, as she believed fumes from the kitchen were affecting her breathing. Extensive discussion occurred over the routing of the chimney pipe. Jali installation (needed to support the pipe) had not yet begun. Ruchi's contractor also started dismantling damaged plaster of inner parapet and mumtee walls."
+        },
+        {
+            "period": "18 May 2025",
+            "details": "The chimney pipe extension was finally installed by Ruchi Sharma Pandey's contractor. Sadhna Sharma's plumber was expected to come for motor installation, but didn't arrive. Ruchi's contractor called another plumber who confirmed that the available space could fit 2-3 motors. Later in the evening, Sadhna Sharma's plumber arrived. A verbal altercation broke out between Sadhna Sharma and Ruchi. Sadhna used abusive language, claimed the space provided was not acceptable, and insisted on an elevated location for the motor. The motor was not installed. An alternate plumber again confirmed that the offered space was suitable, but Sadhna rejected it.\nAlso, the bathroom backflow issue, earlier resolved on 30th April, recurred. Immediately after the fight, Sadhna called Ruchi's contractor demanding it be fixed. Contractor advised her to have her own plumber look at it first.\nLegal Advice: Ruchi's husband contacted their lawyer to confirm:\nThere was no mutually agreed alternative space.\nThe current space was not unsafe, just disputed.\nThe agreement provided no mechanism for unresolved disagreements. Lawyer advised them to not push further, proceed with rest of the work, and let the matter remain pending."
+        },
+        {
+            "period": "19 May 2025",
+            "details": "In response to prior day's tensions, Sadhna Sharma called Ruchi's contractor and demanded immediate removal of scaffolding in the Angan area. This scaffold had been kept intentionally for upcoming JALI installation work. Her demand was impulsive and seen as retaliatory. Contractor complied, but noted the delay this would now cause to jali fabrication."
+        },
+        {
+            "period": "20 May 2025",
+            "details": "An unauthorised rickshaw cart carrying material for the First Floor work entered the premises on 20th May 2025. The cart remained inside the premises for a full 20 minutes. This occurred with the full knowledge of Mrs. Sadhna Sharma, despite prior and repeated communication by the Ground Floor residents that no unauthorised vehicles are permitted within the property. It is noted that even the Ground Floor residents do not allow such entry for their own use.\nThe incident was raised on-site by Ruchi Sharma Pandey's labourers with Mrs. Sadhna Sharma, who acknowledged the violation and apologised. However, given the prolonged presence of the vehicle and her awareness of its entry and stay, the explanation of it being a \"mistake\" does not align with the facts.\nAdditionally, on the same day, the flooring work of the First Floor balcony was completed, including the stonework that had to be laid as part of the finishing tasks.\nThe dismantling of the damaged plaster of the Mumti walls on the terrace also continued on 20th May 2025 as part of the ongoing repair work.\nFurthermore, the scaffolding installed on the First Floor for the Angan work was completely removed on 20th May 2025. The damage to the walls was repaired, and the area was thoroughly cleaned. With this, the Angan-related work stands completed as of 20th May 2025."
+        },
+        {
+            "period": "22 May 2025",
+            "details": "On 22nd May 2025, Sadhna Sharma called Ruchi Sharma Pandey's labourers to the First Floor, complaining of water logging in her bathroom. The labourers politely informed her that the water logging was not caused by any work being done by them, nor was it due to water coming from the terrace.\nIn response, Mrs. Sadhna Sharma became very angry and threatened the labourers, saying she would file a formal complaint against them.\nIt may be noted that earlier, Ruchi Sharma Pandey's contractor had arranged for the entire drainage pipe of Sadhna Sharma's bathroom to be thoroughly cleaned by a team from the Delhi Jal Board (DJB). Given the circumstances, it appears prima facie that the drainage pipe may have become clogged again."
+        },
+        {
+            "period": "27 May 2025",
+            "details": "On 27th May 2025, the material required for the solar panel installation on Ruchi Sharma Pandey's terrace arrived at the premises. The materials were transported to the terrace and properly stored there in preparation for the installation work.\nAdditionally, electrical work began on the Barsati floor of the terrace. As part of this initial stage, chase cutting work was carried out to lay the electrical conduits and connections required for the solar setup."
+        },
+        {
+            "period": "28 May 2025",
+            "details": "On 28th May 2025, solar panel installation work was underway on the terrace belonging to Ruchi Sharma Pandey. During the course of the work, Sadhna Sharma entered Ruchi's terrace without any permission and recorded a full video of all the solar materials stored there. This was done without any consent and constitutes an intrusion into Ruchi Sharma Pandey's exclusive property.\nFollowing this, Sadhna Sharma called the police to the premises and attempted to get the installation stopped.\nHowever, when the police arrived, the situation was calmly explained to them—that the terrace in question was solely under the ownership and control of Ruchi Sharma Pandey. Upon understanding this, the police did not interfere further and left the premises without taking any action.\nImmediately after the police departed, Ruchi Sharma Pandey went to the local police station and filed a formal complaint against Sadhna Sharma, stating that she was harassing them and attempting to obstruct the lawful solar installation work.\nIt is also recorded that during the police visit, Sadhna Sharma made contradictory and dangerous claims about the terrace. Initially, she asserted that the terrace belonged to her. However, when questioned further, she shifted her position and described the terrace as \"disputed property.\" This is factually incorrect. As per the Will of Late Vishnu Kumar Sharma, the terrace and the entire Ground Floor are owned by Ruchi Sharma Pandey. She has full legal rights to install any structure or utilities on the terrace, provided they do not interfere with the limited easement rights granted to Sadhna Sharma."
+        },
+        {
+            "period": "29 May 2025",
+            "details": "Normal renovation work continued across the terrace and Barsati areas. Ruchi's contractor completed the rewiring with saria for the broken roof above the terrace passageway, followed by replastering. Dismantling of the damaged terrace walls also continued. Electrical conduit laying and waterproofing activities proceeded uninterrupted. However, the MYSUN solar team did not report to the site, likely due to fear or concern from Sadhna Sharma's repeated threats and interference on the previous day."
+        },
+        {
+            "period": "30 May 2025",
+            "details": "At around 2:30 PM, Sadhna Sharma again called the police to the site, alleging unauthorized construction. The police initially attempted to halt the work but left after reviewing legal documents and understanding the legitimacy of the ongoing renovation. Ruchi Sharma Pandey subsequently filed a second formal police complaint against Sadhna for repeated obstruction, false accusations, and interference with court-sanctioned work. In the evening around 7:00 PM, police visited again at Sadhna's request, spoke with both parties, and advised peaceful continuation of work. Due to these disruptions and constant nuisance, solar installation progressed very slowly, with only 20-30% of the planned work completed. Separately, scaffolding was installed on the terrace to facilitate dismantling and replastering of higher wall sections."
+        },
+        {
+            "period": "31 May 2025",
+            "details": "Sadhna Sharma approached and questioned labourers on site, forcibly obtained the contact details of MYSUN, and subsequently began calling the solar vendor directly. Later that day, she sent a legal notice and threatening emails to the company, raising alarm and confusion. In response, Ruchi Sharma Pandey and her husband emailed and spoke to MYSUN's team several times, trying to reassure them. Despite their efforts, the vendor did not resume work and left the site midway, unable to proceed due to the ongoing harassment."
+        },
+        {
+            "period": "1 June 2025",
+            "details": "As it was a Sunday, the MYSUN team observed a weekly holiday and did not report to the site. However, Ruchi's civil contractor remained active and completed the laying of the RCC beam frame on the Barsati roof. This beam frame was critical to support the solar panel structure and enable integration with the final slab. Due to prior disruptions caused by Sadhna Sharma, this work—which should have taken just one day—was already delayed by several days. With monsoon season approaching, the delays posed a serious risk to the overall construction. In parallel, repair and replastering of the staircase also continued throughout the day."
+        },
+        {
+            "period": "2 June 2025",
+            "details": "With the solar structure framing completed, RCC beam casting began on the terrace of the Barsati floor to stabilize the support assembly. Around 10:00 AM, Sadhna Sharma once again entered the terrace, filmed the ongoing work without permission, and threatened labourers engaged by Ruchi's contractor. Despite the intimidation, the work continued, and the solar support structure was steadily reinforced through the day."
+        },
+        {
+            "period": "3 June 2025",
+            "details": "The beam casting for the solar panel support structure was completed. Solar panel structures were successfully installed on both the Barsati and Mumtee rooftops. The solar inverter was fixed to the staircase landing, and solar panel installation itself commenced. Concrete laying for the Barsati roof slab also began and was completed the same day. Thanks to the legal assurance provided to MYSUN, the vendor worked without interruption, marking the first full and productive day of solar installation after multiple days of obstruction."
+        },
+        {
+            "period": "4 June 2025",
+            "details": "In the morning, Sadhna Sharma again locked the staircase gate from the outside and delayed Ruchi's workers by over 10-15 minutes, threatening and verbally abusing them. Nonetheless, the work resumed. Curing of the newly laid Barsati roof slab was initiated with proper water filling. Gola moulding was constructed along the roof edges for effective drainage. Solar installation work continued smoothly, and the remaining six solar panels on the Mumtee terrace were successfully installed. Only the electrical wiring remained pending."
+        },
+        {
+            "period": "5 June 2025",
+            "details": "Earthing pit digging for the solar installation was undertaken, during which workers encountered the main Delhi Jal Board water supply lines. The pits and rods were positioned carefully to avoid any interference with the pipeline. Meanwhile, curing of the Barsati roof slab continued. Staircase repair had reached the first-floor level near Sadhna Sharma's unit, where damaged wall sections were being broken and dismantled. Separately, the newly installed water tanks of Sadhna Sharma began overflowing due to the absence of an auto shut-off or alarm system. She had turned on the water supply motor but forgot to switch it off, resulting in prolonged overflow that flooded the central open-to-sky area on the ground floor and disrupted ongoing work.\nAdditionally, Vivek Pandey (on behalf of Ruchi) sent an email to the MYSUN solar team to confirm whether they had applied for the feasibility approval from TPDDL (Tata Power Delhi Distribution Limited), which is a mandatory precondition before solar panel systems can be connected for net metering. The concern was that if feasibility clearance had not been secured, the net metering process could face delays or outright rejection. As per prior assurances, the MYSUN team had promised to refund the entire project amount in case the net metering process failed due to lack of such feasibility."
+        },
+        {
+            "period": "6 June 2025",
+            "details": "The work of dismantling and replastering the staircase walls continued under the supervision of Ruchi Sharma Pandey's contractor. This included scraping off loose plaster, repairing damaged wall sections, and preparing the surface for a fresh plaster coat along the staircase passage.\nOn the same day, Sadhna Sharma again called Ruchi's contractor and pressured him to help clean the drains of her bathroom. She had not arranged for her own plumber. The contractor informed her that the Delhi Jal Board (DJB) team was currently occupied due to Eid-related backlogs and city-wide pending works, and would likely be available only after the 10th of June.\nAdditionally, Ruchi's electrician visited the site to install an Earth Leakage Circuit Breaker (ELCB), as requested by the MYSUN solar team. The ELCB is a critical safety device that disconnects the power supply in the event of a current leak to prevent electric shock or fire hazards—especially important in solar systems due to their constant DC-AC interfacing. However, the solar vendor's on-site workers told the electrician that they would handle the installation themselves, along with all other electrical connections. They took possession of the ELCB device from Ruchi's electrician and retained it for integration during their next round of work.\nFinally, on this date, Sadhna Sharma's plumber shifted her old water motor to the newly designated location near the underground tank, in accordance with the mediation agreement."
+        },
+        {
+            "period": "7 June 2025",
+            "details": "The MYSUN labour team observed a holiday for Eid and did not report to site. However, work continued under Ruchi's contractor, including ongoing staircase wall plastering and the initiation of floor digging in the old terrace bathroom to dismantle the plumbing infrastructure."
+        },
+        {
+            "period": "8 June 2025",
+            "details": "The work of dismantling and replastering the staircase walls continued under the supervision of Ruchi Sharma Pandey's contractor. Focus remained on repairing the upper sections of the staircase passage and preparing them for uniform finishing. Additionally, Sadhna Sharma engaged her labourers to install tile borders around the opening of the underground RCC water tank. This action was carried out unilaterally, without any consultation or discussion with Ruchi Sharma Pandey, despite the shared and sensitive nature of the tank area under the ongoing settlement framework."
+        },
+        {
+            "period": "9 June 2025",
+            "details": "Ruchi's contractor called the DJB team again to address waterlogging in Sadhna Sharma's first-floor bathroom. The team effectively cleaned the drainage lines, resolving the blockage and ending the persistent water accumulation in that area. Repair and replastering work of the staircase also continued on this day."
+        },
+        {
+            "period": "10 June 2025",
+            "details": "Putty work was initiated inside the Barsati room on the terrace as a preparatory step for final painting. When Ruchi's contractor requested that Sadhna Sharma temporarily remove her CCTV cameras and wiring from the staircase wall so that replastering could be completed smoothly, she refused. As a result, a patch of the wall remains untreated.\nAdditionally, since Sadhna had still not begun painting the outer walls, Ruchi's team expressed concern that finishing the terrace before Sadhna's painting work could lead to damage later. It was decided that unless Sadhna begins the work now, she will not be allowed to use the finished terrace for painting access later; instead, scaffolding from the ground will be required.\nOn the same day, further digging in the old terrace bathroom revealed deep concealed cracks in the wall structure, which were sealed using waterproofing compound. Repair and replastering work of the staircase also continued on this day. Putty work on the terrace also continued on this day."
+        },
+        {
+            "period": "11 June 2025",
+            "details": "Putty work continued across multiple sections of the terrace, including the Barsati exterior walls and parapets, to prepare all surfaces for the upcoming painting phase. Repair and replastering work of the staircase also continued on this day. Putty work on the terrace also continued on this day."
+        },
+        {
+            "period": "12 June 2025",
+            "details": "Putty work continued across multiple sections of the terrace, including the Barsati exterior walls and parapets, to prepare all surfaces for the upcoming painting phase. Repair and replastering work of the staircase also continued on this day. Putty work on the terrace also continued on this day. On this date, the solar installation work was completed."
+        },
+        {
+            "period": "13 June 2025",
+            "details": "Putty work continued across multiple sections of the terrace, including the Barsati exterior walls and parapets, to prepare all surfaces for the upcoming painting phase. Repair and replastering work of the staircase also continued on this day. Putty work on the terrace also continued on this day."
+        },
+        {
+            "period": "14 June 2025",
+            "details": "Putty work on the terrace also continued on this day."
+        },
+        {
+            "period": "15 June 2025",
+            "details": "There was very heavy rainfall in the early morning hours. The floor tiling work of the Barsati room also started on this day. Putty work on the terrace also continued on this day."
+        },
+        {
+            "period": "16 June 2025",
+            "details": "The floor tiling work of the Barsati room continued on this day. The painting work of the terrace also started."
+        },
+        {
+            "period": "17 June 2025",
+            "details": "There was heavy rainfall during the second half of the day. The fabrication work for the terrace was started but could not continue due to the rain. Painting work on the terrace was also in progress and was similarly interrupted because of the rainfall. Tiling work on the terrace also continued on this day."
+        },
+        {
+            "period": "18 June 2025",
+            "details": "The electrification work on the terrace was completed on this day. Tiling work on the terrace also continued on this day. Throughout the day, water kept dripping from Sadhna Sharma's balcony into the front open area of Ruchi's portion. This was due to the fact that Sadhna's balcony repair work had not been properly executed, and the issue was exposed following the heavy rainfall on 17th June."
+        },
+        {
+            "period": "19 June 2025",
+            "details": "Painting work on the terrace continued under Ruchi Sharma Pandey's contractor. Additionally, putty work on the outer wall surfaces assigned to Sadhna Sharma was started by her contractor, in accordance with the terms of the mediation agreement. Tiling work on the terrace also continued on this day. On the same day, Sadhna Sharma's old iron shade was repaired on the terrace area belonging to Ruchi Sharma Pandey. During this work, the fabricators engaged by Sadhna Sharma caused damage to the freshly painted parapet walls of Ruchi's terrace, leaving visible marks and ruining the finished surface."
+        }
+    ]
+}

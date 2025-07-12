@@ -1,0 +1,21 @@
+title="LangChain TOML File"
+
+[tool.setuptools.package.find]
+where=["src"]
+
+[tool.setuptools.package-data]
+data=["*.json"]
+
+[tool.mediation_logs.logconfig]
+loggername="mediation_logs"
+logsdir="logs"
+logfile="mediation_logs.log"
+jsonfile="mediation_logs.json"
+
+[tool.mediation_logs.jsonconfig]
+jsondata="mediation_log.json"
+logschema="mediation_log.schema.json"
+logentryschema="mediation_log_entry.schema.json"
+
+[prompts]
+test_stock_entry = "Is it the right time to enter the stock {stock_name} for good returns over a {time_horizon} time horizon? Do complete technical and financial analysis, as well as relevant news and research. But give me only a very concise 1 sentence answer, mentioning a good entry point"
