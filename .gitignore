@@ -4,3 +4,4 @@
 tests/logs
 logs/
 __pycache__/
+bfg.jar
