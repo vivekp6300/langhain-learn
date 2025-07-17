@@ -1,0 +1,12 @@
+title="LangChain TOML Test File"
+
+[tool.mediation_logs.logconfig]
+loggername="mediation_logs"
+logsdir="logs"
+logfile="mediation_logs.log"
+jsonfile="mediation_logs.json"
+
+[tool.mediation_logs.jsonconfig]
+jsondata="mediation_log.json"
+logschema="mediation_log.schema.json"
+logentryschema="mediation_log_entry.schema.json"

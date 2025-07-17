@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema#",
+    "$id" : "http://vivekpandey.com/langchain/mediation_log_entry.schema.json",
+    "type" : "object",
+    "properties" : {
+        "period" : {
+            "type" : "string",
+            "description" : "The period of the mediation log entry, e.g., 20 Jun or 5 Jun to 20 Jun etc"
+        },
+        "details" : {
+            "type" : "string",
+            "description" : "The details of the mediation log entry"
+        }
+    }
+}

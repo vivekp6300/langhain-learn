@@ -17,12 +17,12 @@ load_dotenv()
 
 def main():
     
-    logger = logger.getLogger("console")
+    log = logger.getLogger("console")
     openai_key = os.getenv(OPENAI_KEY_NAME)
     config=None
     with (open("pyproject.toml", "rb") as f):
         config=tomllib.load(f)
-    logger.info(f"OpenAI Key = {openai_key}")
+    log.info(f"OpenAI Key = {openai_key}")
 
     ''' Old School way :))
     chatgpt = ChatOpenAI(

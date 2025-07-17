@@ -4,16 +4,18 @@ import sys
 from config.loader import MediationConfig
 
 import structlog
-        
+
+_log_configured = False
+
 def setup_logging():
     os.makedirs("logs", exist_ok=True) 
     setup_structlog()
     config = MediationConfig()
-    logger = logging.getLogger(config.loggername)
+    logger = logging.getLogger(config.loggername())
     if not logger.hasHandlers():
         logger.addHandler(make_handler("console",logging.StreamHandler(sys.stdout)))
-        logger.addHandler(make_handler("file",logging.FileHandler(config.logfile_txt, mode='a')))
-        logger.addHandler(make_handler("json_file",logging.FileHandler(config.logfile_json, mode='a')))
+        logger.addHandler(make_handler("file",logging.FileHandler(config.logfile_txt(), mode='a')))
+        logger.addHandler(make_handler("json_file",logging.FileHandler(config.logfile_json(), mode='a')))
 
 
 def get_logger(destination=None):

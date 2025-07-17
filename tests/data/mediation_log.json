@@ -1,0 +1,24 @@
+{
+    "$schema": "./mediation_log.schema.json",
+    "title": "Chronological Mediation Log",
+    "subtitle": "Lok Vihar Residential Repair and Renovation",
+    "overview": "This document maintains a dated, factual log of all physical renovation, repair, and maintenance activities executed at residential premises B-169, Lok Vihar, Pitampura, Delhi, in accordance with the Settlement Agreement dated February 2025 signed between Mrs. Sadhna Sharma and Mrs. Ruchi Sharma Pandey.\nThe agreement was the outcome of mediation proceedings under the case Cont. Cas (C) 1009/2024 - Sadhna Sharma @ Sudha vs Madhu Sharma & Ors, pending before the Hon'ble Delhi High Court. The mediation was conducted at Samadhan - Delhi High Court Mediation and Conciliation Centre pursuant to order dated 03.07.2024 by Hon'ble Justice Dharmesh Sharma. The matter is connected to CS DJ/994/2022, pending before the Learned District Judge-02, Rohini Court, North West Delhi.",
+    "entries": [
+        {
+            "period": "20 March 2025",
+            "details": "Work on the terrace officially commenced. Ruchi Sharma Pandey initiated structural renovation by starting with the removal of the improperly constructed gola on the Barsati room and adjoining bathroom terrace walls. This marked the beginning of the physical execution of the mediation settlement."
+        },
+        {
+            "period": "21 March 2025",
+            "details": "A temporary 1000-litre plastic water tank was installed by Sadhna Sharma on the terrace, adjacent to Ruchi Sharma Pandey's existing tanks. This was necessary to enable the dismantling of Sadhna's old RCC underground tank. Labourers hired by Ruchi continued breaking the old gola and began dismantling damaged portions of the parapet walls. These portions had been previously identified as unstable and allowing seepage."
+        },
+        {
+            "period": "22 March 2025",
+            "details": "Ruchi's contractor arranged for a sweeper to clean the terrace bathroom, making it usable for the workers during the renovation. This was a preparatory step to allow uninterrupted labour presence."
+        },
+        {
+            "period": "24 March 2025",
+            "details": "Dismantling work on Sadhna Sharma's RCC underground water tank was initiated. This work had been agreed upon in the mediation to allow replacement with overhead PVC tanks. Work was slow due to the tank's structural density."
+        }
+    ]
+}

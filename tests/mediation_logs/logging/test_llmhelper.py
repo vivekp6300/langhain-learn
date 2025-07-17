@@ -1,5 +1,5 @@
 import os
-from logging.logger import get_logger
+from logutil.logutil import get_logger
 
 def test_setup_Logging(tmp_path):
     log_dir = tmp_path / "logs"
