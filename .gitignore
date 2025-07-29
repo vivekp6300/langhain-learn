@@ -5,3 +5,10 @@ tests/logs
 logs/
 __pycache__/
 bfg.jar
+*.egg-info
+*.egg
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+structure.txt

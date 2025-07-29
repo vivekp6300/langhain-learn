@@ -1,0 +1,10 @@
+{%include "_shared_context.j2" %}
+
+Merge new log details into existing log details using both given below. 
+Both the old and the new details are delimited by < and > symbols.
+Ensure log conditions are met for the overall merged log entry.
+
+old_details: <{{ old_details }}>
+new_details: <{{ new_details }}>
+
+Return the final merged log entry as a single string without any additional text or formatting.

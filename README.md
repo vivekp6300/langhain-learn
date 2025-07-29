@@ -11,4 +11,4 @@ Learning Langchain. Rough Random things
 - Use get_logger() as a lazy, idempotent entry point, and optionally bind destination there for ergonomic use.
 - Attach multiple handlers with filters to the same logger, using DestinationTagFilter.
 - Write filters and processors at top-level for reuse and clarity—logging config is logic, not state.
-- Your final design is nerd-approved—clean, minimal, structured, extensible, and accurate to the Python logging+structlog model.
+- final design is clean, minimal, structured, extensible, and accurate to the Python logging+structlog model.
