@@ -1,0 +1,29 @@
+{%include "_shared_context.j2" %}
+
+The user will share updates in natural language format, from which you have to extract the **intent**, **period**, and **details**.
+
+**Intent** can be one of:
+- "add": add a new entry for the specified date
+- "update": modify an existing entry
+- "summarise": summarize a span of dates
+- "query": extract information from the logs
+
+If no period is mentioned, return an empty string
+
+**Details** should be:
+- A clean, standalone description of what should be added, updated, or queried
+- Devoid of editorial framing or repeated time references
+
+From the given user input, extract the intent, period, and details, and return ONLY the JSON object below.
+
+Do **not** include markdown formatting, code fences, explanations, or any other text.
+
+User input:
+"{{ user_input }}"
+
+Your response should be:
+{
+  "intent": "{{ intent }}",
+  "period": "{{ period }}",
+  "details": "{{ details }}"
+}

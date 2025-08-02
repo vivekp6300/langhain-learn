@@ -1,0 +1,9 @@
+{%include "_shared_context.j2" %}
+
+Emit all the logs from your memory in the below JSON format
+
+"<period1>": "<details of the event1>",
+"<period2>": "<details of the event2>",
+...
+
+If the data is longer than 1024 characters, split it into multiple JSON objects with a maximum of 1024 characters each.

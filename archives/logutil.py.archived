@@ -1,16 +1,14 @@
 import logging
 import os
 import sys
-from config.loader import MediationConfig
+from mediation_logs.util.loader import MediationConfig
 
 import structlog
 
 _log_configured = False
 
-def setup_logging():
-    os.makedirs("logs", exist_ok=True) 
+def setup_logging(config: MediationConfig):
     setup_structlog()
-    config = MediationConfig()
     logger = logging.getLogger(config.loggername())
     if not logger.hasHandlers():
         logger.addHandler(make_handler("console",logging.StreamHandler(sys.stdout)))
@@ -18,7 +16,7 @@ def setup_logging():
         logger.addHandler(make_handler("json_file",logging.FileHandler(config.logfile_json(), mode='a')))
 
 
-def get_logger(destination=None):
+def get_logger(config, destination=None):
     """
     Returns a preconfigured structlog logger, optionally bound with a destination tag.
 
@@ -48,9 +46,9 @@ def get_logger(destination=None):
     """
     global _log_configured
     if not _log_configured:
-        setup_logging()
+        setup_logging(config)
         _log_configured = True
-    logger = structlog.get_logger(MediationConfig().loggername())
+    logger = structlog.get_logger(config.loggername())
     return logger.bind(destination=destination) if destination else logger
 
 def pass_destination(logger, method_name, event_dict):
